@@ -1,0 +1,7 @@
+.DS_Store
+.MATLABDriveTag
+# Ignore specific large files causing GitHub push errors
+MATLAB I/Archive/SY232425/11 MCAS Map/Great_Britain_shapefile/gb_1km.shp
+MATLAB II/oldWordle/devMatchCode.mat
+MATLAB II/oldWordle/SBMLRelease/wordleBot.mlappinstall
+MATLAB II/Projects/03_Wordlebot/release/wordleData.mat

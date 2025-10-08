@@ -1,0 +1,4 @@
+SNAP
+META
+IBM
+NVDA

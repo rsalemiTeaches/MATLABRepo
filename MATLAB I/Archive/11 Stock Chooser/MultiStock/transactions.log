@@ -1,0 +1,1048 @@
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of AAPL for $1854.03 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of AAPL for $1854.03 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ABNB for $1344.80 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of ABNB for $1344.80 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ADBE for $5800.70 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of ADBE for $5800.70 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ADI for $1926.72 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of ADI for $1926.72 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ADP for $2320.79 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of ADP for $2320.79 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ADSK for $2341.20 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of ADSK for $2341.20 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of AEP for $822.33 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of AEP for $822.33 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of AMAT for $1541.09 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of AMAT for $1541.09 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of AMD for $1385.80 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of AMD for $1385.80 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of AMGN for $2950.83 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of AMGN for $2950.83 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of AMZN for $1499.30 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of AMZN for $1499.30 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ANSS for $3530.00 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of ANSS for $3530.00 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ASML for $7141.82 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of ASML for $7141.82 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of AVGO for $10807.77 total
+ERROR: rsalemi@natickps.org has 10000.00 dollars and needs 10807.77 to buy 10.00 shares of AVGO
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of AVGO for $10807.77 total
+ERROR: rsalemi@natickps.org has 0.00 shares of AVGO and wants to sell 10.00
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of AZN for $673.65 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of AZN for $673.65 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of BIIB for $2677.10 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of BIIB for $2677.10 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of BKNG for $34716.76 total
+ERROR: rsalemi@natickps.org has 10000.00 dollars and needs 34716.76 to buy 10.00 shares of BKNG
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of BKNG for $34716.76 total
+ERROR: rsalemi@natickps.org has 0.00 shares of BKNG and wants to sell 10.00
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of BKR for $336.85 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of BKR for $336.85 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of CCEP for $664.90 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of CCEP for $664.90 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of CDNS for $2629.00 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of CDNS for $2629.00 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of CDW for $2201.17 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of CDW for $2201.17 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of CEG for $1150.24 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of CEG for $1150.24 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of CHTR for $3915.10 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of CHTR for $3915.10 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of CMCSA for $433.50 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of CMCSA for $433.50 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of COST for $6486.54 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of COST for $6486.54 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of CPRT for $475.10 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of CPRT for $475.10 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of CRWD for $2468.90 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of CRWD for $2468.90 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of CSCO for $497.14 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of CSCO for $497.14 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of CSGP for $854.60 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of CSGP for $854.60 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of CSX for $345.11 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of CSX for $345.11 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of CTAS for $5905.91 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of CTAS for $5905.91 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of CTSH for $741.14 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of CTSH for $741.14 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of DASH for $964.60 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of DASH for $964.60 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of DDOG for $1150.80 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of DDOG for $1150.80 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of DLTR for $1425.40 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of DLTR for $1425.40 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of DXCM for $1230.90 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of DXCM for $1230.90 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of EA for $1355.99 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of EA for $1355.99 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of EXC for $360.83 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of EXC for $360.83 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of FANG for $1543.98 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of FANG for $1543.98 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of FAST for $628.26 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of FAST for $628.26 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of FTNT for $577.80 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of FTNT for $577.80 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of GEHC for $763.13 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of GEHC for $763.13 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of GFS for $580.00 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of GFS for $580.00 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of GILD for $823.96 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of GILD for $823.96 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of GOOG for $1395.60 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of GOOG for $1395.60 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of GOOGL for $1381.70 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of GOOGL for $1381.70 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of HON for $2078.58 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of HON for $2078.58 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of IDXX for $5476.90 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of IDXX for $5476.90 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ILMN for $1376.10 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of ILMN for $1376.10 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of INTC for $476.60 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of INTC for $476.60 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of INTU for $6020.11 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of INTU for $6020.11 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ISRG for $3309.80 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of ISRG for $3309.80 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of KDP for $329.18 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of KDP for $329.18 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of KHC for $376.89 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of KHC for $376.89 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of KLAC for $5591.47 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of KLAC for $5591.47 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of LIN for $4083.72 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of LIN for $4083.72 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of LRCX for $7476.91 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of LRCX for $7476.91 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of LULU for $5053.80 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of LULU for $5053.80 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of MAR for $2213.65 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of MAR for $2213.65 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of MCHP for $860.93 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of MCHP for $860.93 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of MDB for $3836.90 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of MDB for $3836.90 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of MDLZ for $733.92 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of MDLZ for $733.92 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of MELI for $15291.60 total
+ERROR: rsalemi@natickps.org has 10000.00 dollars and needs 15291.60 to buy 10.00 shares of MELI
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of MELI for $15291.60 total
+ERROR: rsalemi@natickps.org has 0.00 shares of MELI and wants to sell 10.00
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of META for $3459.23 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of META for $3459.23 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of MNST for $585.90 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of MNST for $585.90 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of MRNA for $1125.00 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of MRNA for $1125.00 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of MRVL for $580.60 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of MRVL for $580.60 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of MSFT for $3701.85 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of MSFT for $3701.85 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of MU for $822.61 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of MU for $822.61 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of NFLX for $4685.00 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of NFLX for $4685.00 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of NVDA for $4816.57 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of NVDA for $4816.57 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of NXPI for $2202.31 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of NXPI for $2202.31 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ODFL for $1986.38 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of ODFL for $1986.38 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ON for $814.50 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of ON for $814.50 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ORLY for $9449.80 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of ORLY for $9449.80 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of PANW for $2889.20 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of PANW for $2889.20 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of PAYX for $1170.17 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of PAYX for $1170.17 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of PCAR for $965.32 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of PCAR for $965.32 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of PDD for $1456.40 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of PDD for $1456.40 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of PEP for $1716.00 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of PEP for $1716.00 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of PYPL for $614.60 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of PYPL for $614.60 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of QCOM for $1395.21 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of QCOM for $1395.21 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of REGN for $9050.00 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of REGN for $9050.00 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ROP for $5329.89 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of ROP for $5329.89 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ROST for $1373.36 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of ROST for $1373.36 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of SBUX for $931.10 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of SBUX for $931.10 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of SIRI for $54.61 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of SIRI for $54.61 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of SNPS for $4989.70 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of SNPS for $4989.70 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of TEAM for $2266.70 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of TEAM for $2266.70 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of TMUS for $1612.68 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of TMUS for $1612.68 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of TSLA for $2484.20 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of TSLA for $2484.20 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of TTD for $705.90 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of TTD for $705.90 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of TTWO for $1592.60 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of TTWO for $1592.60 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of TXN for $1679.35 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of TXN for $1679.35 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of VRSK for $2375.87 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of VRSK for $2375.87 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of VRTX for $4109.10 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of VRTX for $4109.10 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of WBA for $263.51 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of WBA for $263.51 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of WBD for $116.60 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of WBD for $116.60 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of WDAY for $2682.80 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of WDAY for $2682.80 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of XEL for $627.95 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of XEL for $627.95 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ZS for $2123.70 total
+TRAN:01/02/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of ZS for $2123.70 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of AAPL for $1840.15 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of AAPL for $1840.15 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ABNB for $1334.20 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of ABNB for $1334.20 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ADBE for $5717.90 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of ADBE for $5717.90 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ADI for $1880.74 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of ADI for $1880.74 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ADP for $2311.75 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of ADP for $2311.75 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ADSK for $2271.90 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of ADSK for $2271.90 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of AEP for $824.31 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of AEP for $824.31 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of AMAT for $1511.94 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of AMD for $1353.20 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of AMD for $1353.20 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of AMGN for $2983.58 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of AMGN for $2983.58 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of AMZN for $1484.70 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of AMZN for $1484.70 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ANSS for $3432.20 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of ANSS for $3432.20 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ASML for $7006.84 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of ASML for $7006.84 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of AVGO for $10540.91 total
+ERROR: rsalemi@natickps.org has 8488.06 dollars and needs 10540.91 to buy 10.00 shares of AVGO
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of AVGO for $10540.91 total
+ERROR: rsalemi@natickps.org has 0.00 shares of AVGO and wants to sell 10.00
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of AZN for $672.86 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of AZN for $672.86 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of BIIB for $2634.30 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of BIIB for $2634.30 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of BKNG for $34005.68 total
+ERROR: rsalemi@natickps.org has 8488.06 dollars and needs 34005.68 to buy 10.00 shares of BKNG
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of BKNG for $34005.68 total
+ERROR: rsalemi@natickps.org has 0.00 shares of BKNG and wants to sell 10.00
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of CCEP for $657.60 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of CCEP for $657.60 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of CDNS for $2572.80 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of CDNS for $2572.80 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of CDW for $2167.56 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of CDW for $2167.56 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of CEG for $1156.23 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of CEG for $1156.23 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of CHTR for $3866.70 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of CHTR for $3866.70 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of CMCSA for $429.92 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of CMCSA for $429.92 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of COST for $6427.12 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of COST for $6427.12 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of CPRT for $468.30 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of CPRT for $468.30 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of CRWD for $2443.60 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of CRWD for $2443.60 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of CSCO for $501.01 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of CSCO for $501.01 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of CSGP for $827.70 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of CSGP for $827.70 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of CSX for $345.50 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of CSX for $345.50 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of CTAS for $5789.87 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of CTAS for $5789.87 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of CTSH for $733.87 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of CTSH for $733.87 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of DASH for $937.70 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of DASH for $937.70 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of DDOG for $1124.20 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of DDOG for $1124.20 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of DLTR for $1367.20 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of DLTR for $1367.20 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of DXCM for $1202.70 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of DXCM for $1202.70 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of EA for $1355.29 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of EA for $1355.29 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of EXC for $357.96 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of EXC for $357.96 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of FANG for $1575.06 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of FANG for $1575.06 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of FAST for $613.73 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of FAST for $613.73 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of FTNT for $578.50 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of FTNT for $578.50 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of GEHC for $760.53 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of GEHC for $760.53 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of GFS for $570.20 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of GFS for $570.20 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of GILD for $826.34 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of GILD for $826.34 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of GOOG for $1403.60 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of GOOG for $1403.60 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of GOOGL for $1389.20 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of GOOGL for $1389.20 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of HON for $2034.12 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of HON for $2034.12 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of IDXX for $5350.60 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of IDXX for $5350.60 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ILMN for $1303.40 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of ILMN for $1303.40 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of INTC for $469.12 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of INTC for $469.12 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of INTU for $5894.28 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of INTU for $5894.28 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ISRG for $3221.30 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of ISRG for $3221.30 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of KDP for $321.48 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of KDP for $321.48 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of KHC for $376.49 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of KHC for $376.49 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of KLAC for $5513.65 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of KLAC for $5513.65 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of LIN for $4075.05 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of LIN for $4075.05 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of LRCX for $7353.47 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of LRCX for $7353.47 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of LULU for $4980.20 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of LULU for $4980.20 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of MAR for $2185.71 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of MAR for $2185.71 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of MCHP for $841.14 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of MCHP for $841.14 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of MDB for $3729.80 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of MDLZ for $728.35 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of MDLZ for $728.35 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of MELI for $15000.00 total
+ERROR: rsalemi@natickps.org has 4758.26 dollars and needs 15000.00 to buy 10.00 shares of MELI
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of MELI for $15000.00 total
+ERROR: rsalemi@natickps.org has 0.00 shares of MELI and wants to sell 10.00
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of META for $3441.05 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of META for $3441.05 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of MNST for $574.80 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of MNST for $574.80 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of MRNA for $1085.80 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of MRNA for $1085.80 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of MRVL for $566.52 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of MRVL for $566.52 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of MSFT for $3699.16 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of MSFT for $3699.16 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of MU for $821.81 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of MU for $821.81 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of NFLX for $4702.60 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of NFLX for $4702.60 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of NVDA for $4756.68 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of NVDA for $4756.68 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of NXPI for $2151.53 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of NXPI for $2151.53 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ODFL for $1923.36 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of ODFL for $1923.36 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ON for $793.10 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of ON for $793.10 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ORLY for $9437.10 total
+ERROR: rsalemi@natickps.org has 4758.26 dollars and needs 9437.10 to buy 10.00 shares of ORLY
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of ORLY for $9437.10 total
+ERROR: rsalemi@natickps.org has 0.00 shares of ORLY and wants to sell 10.00
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of PANW for $2864.70 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of PANW for $2864.70 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of PAYX for $1159.95 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of PAYX for $1159.95 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of PCAR for $946.86 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of PCAR for $946.86 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of PDD for $1489.50 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of PDD for $1489.50 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of PEP for $1716.40 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of PEP for $1716.40 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of PYPL for $586.30 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of PYPL for $586.30 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of QCOM for $1369.05 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of QCOM for $1369.05 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of REGN for $9175.60 total
+ERROR: rsalemi@natickps.org has 4758.26 dollars and needs 9175.60 to buy 10.00 shares of REGN
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of REGN for $9175.60 total
+ERROR: rsalemi@natickps.org has 0.00 shares of REGN and wants to sell 10.00
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ROP for $5295.09 total
+ERROR: rsalemi@natickps.org has 4758.26 dollars and needs 5295.09 to buy 10.00 shares of ROP
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of ROP for $5295.09 total
+ERROR: rsalemi@natickps.org has 0.00 shares of ROP and wants to sell 10.00
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ROST for $1344.33 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of ROST for $1344.33 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of SBUX for $926.72 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of SBUX for $926.72 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of SIRI for $54.11 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of SIRI for $54.11 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of SNPS for $4924.00 total
+ERROR: rsalemi@natickps.org has 4758.26 dollars and needs 4924.00 to buy 10.00 shares of SNPS
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of SNPS for $4924.00 total
+ERROR: rsalemi@natickps.org has 0.00 shares of SNPS and wants to sell 10.00
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of TEAM for $2200.50 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of TEAM for $2200.50 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of TMUS for $1614.37 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of TMUS for $1614.37 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of TSLA for $2384.50 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of TSLA for $2384.50 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of TTD for $693.20 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of TTD for $693.20 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of TTWO for $1584.00 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of TTWO for $1584.00 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of TXN for $1654.35 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of TXN for $1654.35 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of VRSK for $2363.09 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of VRSK for $2363.09 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of VRTX for $4107.10 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of VRTX for $4107.10 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of WBA for $252.83 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of WBA for $252.83 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of WBD for $113.00 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of WBD for $113.00 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of WDAY for $2684.10 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of WDAY for $2684.10 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of XEL for $629.03 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of XEL for $629.03 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ZS for $2102.40 total
+TRAN:01/03/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of ZS for $2102.40 total
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of AAPL for $1816.78 total
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of AAPL for $1816.78 total
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ABNB for $1337.20 total
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of ABNB for $1337.20 total
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ADBE for $5670.50 total
+ERROR: rsalemi@natickps.org has 4758.26 dollars and needs 5670.50 to buy 10.00 shares of ADBE
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of ADBE for $5670.50 total
+ERROR: rsalemi@natickps.org has 0.00 shares of ADBE and wants to sell 10.00
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ADI for $1851.97 total
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of ADI for $1851.97 total
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ADP for $2323.18 total
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of ADP for $2323.18 total
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ADSK for $2289.20 total
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of AEP for $824.41 total
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of AEP for $824.41 total
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of AMD for $1360.10 total
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of AMD for $1360.10 total
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of AMGN for $3008.18 total
+ERROR: rsalemi@natickps.org has 2469.06 dollars and needs 3008.18 to buy 10.00 shares of AMGN
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of AMGN for $3008.18 total
+ERROR: rsalemi@natickps.org has 0.00 shares of AMGN and wants to sell 10.00
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of AMZN for $1445.70 total
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of AMZN for $1445.70 total
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ANSS for $3441.60 total
+ERROR: rsalemi@natickps.org has 2469.06 dollars and needs 3441.60 to buy 10.00 shares of ANSS
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of ANSS for $3441.60 total
+ERROR: rsalemi@natickps.org has 0.00 shares of ANSS and wants to sell 10.00
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ASML for $6976.16 total
+ERROR: rsalemi@natickps.org has 2469.06 dollars and needs 6976.16 to buy 10.00 shares of ASML
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of ASML for $6976.16 total
+ERROR: rsalemi@natickps.org has 0.00 shares of ASML and wants to sell 10.00
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of AVGO for $10445.62 total
+ERROR: rsalemi@natickps.org has 2469.06 dollars and needs 10445.62 to buy 10.00 shares of AVGO
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of AVGO for $10445.62 total
+ERROR: rsalemi@natickps.org has 0.00 shares of AVGO and wants to sell 10.00
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of AZN for $677.39 total
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of AZN for $677.39 total
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of BIIB for $2602.80 total
+ERROR: rsalemi@natickps.org has 2469.06 dollars and needs 2602.80 to buy 10.00 shares of BIIB
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of BIIB for $2602.80 total
+ERROR: rsalemi@natickps.org has 0.00 shares of BIIB and wants to sell 10.00
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of BKNG for $34112.10 total
+ERROR: rsalemi@natickps.org has 2469.06 dollars and needs 34112.10 to buy 10.00 shares of BKNG
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of BKNG for $34112.10 total
+ERROR: rsalemi@natickps.org has 0.00 shares of BKNG and wants to sell 10.00
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of CCEP for $654.50 total
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of CDNS for $2559.20 total
+ERROR: rsalemi@natickps.org has 1814.56 dollars and needs 2559.20 to buy 10.00 shares of CDNS
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of CDNS for $2559.20 total
+ERROR: rsalemi@natickps.org has 0.00 shares of CDNS and wants to sell 10.00
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of CDW for $2145.41 total
+ERROR: rsalemi@natickps.org has 1814.56 dollars and needs 2145.41 to buy 10.00 shares of CDW
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of CDW for $2145.41 total
+ERROR: rsalemi@natickps.org has 0.00 shares of CDW and wants to sell 10.00
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of CEG for $1151.34 total
+ERROR: rsalemi@natickps.org has 0.00 shares of CEG and wants to sell 10.00
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of CHTR for $3757.50 total
+ERROR: rsalemi@natickps.org has 1814.56 dollars and needs 3757.50 to buy 10.00 shares of CHTR
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of CMCSA for $423.17 total
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of CMCSA for $423.17 total
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of COST for $6463.61 total
+ERROR: rsalemi@natickps.org has 1814.56 dollars and needs 6463.61 to buy 10.00 shares of COST
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of COST for $6463.61 total
+ERROR: rsalemi@natickps.org has 0.00 shares of COST and wants to sell 10.00
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of CPRT for $466.40 total
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of CPRT for $466.40 total
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of CRWD for $2456.50 total
+ERROR: rsalemi@natickps.org has 1814.56 dollars and needs 2456.50 to buy 10.00 shares of CRWD
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of CSCO for $496.74 total
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of CSCO for $496.74 total
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of CSGP for $814.20 total
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of CSGP for $814.20 total
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of CSX for $346.10 total
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of CSX for $346.10 total
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of CTAS for $5810.83 total
+ERROR: rsalemi@natickps.org has 1814.56 dollars and needs 5810.83 to buy 10.00 shares of CTAS
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of CTAS for $5810.83 total
+ERROR: rsalemi@natickps.org has 0.00 shares of CTAS and wants to sell 10.00
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of CTSH for $733.07 total
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of DASH for $939.00 total
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of DASH for $939.00 total
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of DDOG for $1130.20 total
+ERROR: rsalemi@natickps.org has 1081.49 dollars and needs 1130.20 to buy 10.00 shares of DDOG
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of DDOG for $1130.20 total
+ERROR: rsalemi@natickps.org has 0.00 shares of DDOG and wants to sell 10.00
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of DLTR for $1361.80 total
+ERROR: rsalemi@natickps.org has 1081.49 dollars and needs 1361.80 to buy 10.00 shares of DLTR
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of DXCM for $1218.30 total
+ERROR: rsalemi@natickps.org has 1081.49 dollars and needs 1218.30 to buy 10.00 shares of DXCM
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of DXCM for $1218.30 total
+ERROR: rsalemi@natickps.org has 0.00 shares of DXCM and wants to sell 10.00
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of EA for $1357.89 total
+ERROR: rsalemi@natickps.org has 1081.49 dollars and needs 1357.89 to buy 10.00 shares of EA
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of EA for $1357.89 total
+ERROR: rsalemi@natickps.org has 0.00 shares of EA and wants to sell 10.00
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of EXC for $356.38 total
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of EXC for $356.38 total
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of FANG for $1532.28 total
+ERROR: rsalemi@natickps.org has 1081.49 dollars and needs 1532.28 to buy 10.00 shares of FANG
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of FANG for $1532.28 total
+ERROR: rsalemi@natickps.org has 0.00 shares of FANG and wants to sell 10.00
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of FAST for $614.82 total
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of FAST for $614.82 total
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of FTNT for $583.90 total
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of FTNT for $583.90 total
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of GEHC for $765.13 total
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of GEHC for $765.13 total
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of GFS for $558.30 total
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of GFS for $558.30 total
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of GOOG for $1380.40 total
+ERROR: rsalemi@natickps.org has 1081.49 dollars and needs 1380.40 to buy 10.00 shares of GOOG
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of GOOG for $1380.40 total
+ERROR: rsalemi@natickps.org has 0.00 shares of GOOG and wants to sell 10.00
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of GOOGL for $1363.90 total
+ERROR: rsalemi@natickps.org has 1081.49 dollars and needs 1363.90 to buy 10.00 shares of GOOGL
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of GOOGL for $1363.90 total
+ERROR: rsalemi@natickps.org has 0.00 shares of GOOGL and wants to sell 10.00
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of HON for $2037.80 total
+ERROR: rsalemi@natickps.org has 1081.49 dollars and needs 2037.80 to buy 10.00 shares of HON
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of HON for $2037.80 total
+ERROR: rsalemi@natickps.org has 0.00 shares of HON and wants to sell 10.00
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of IDXX for $5385.00 total
+ERROR: rsalemi@natickps.org has 1081.49 dollars and needs 5385.00 to buy 10.00 shares of IDXX
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of IDXX for $5385.00 total
+ERROR: rsalemi@natickps.org has 0.00 shares of IDXX and wants to sell 10.00
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ILMN for $1314.30 total
+ERROR: rsalemi@natickps.org has 1081.49 dollars and needs 1314.30 to buy 10.00 shares of ILMN
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of ILMN for $1314.30 total
+ERROR: rsalemi@natickps.org has 0.00 shares of ILMN and wants to sell 10.00
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of INTC for $467.33 total
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of INTC for $467.33 total
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of INTU for $5851.20 total
+ERROR: rsalemi@natickps.org has 1081.49 dollars and needs 5851.20 to buy 10.00 shares of INTU
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of INTU for $5851.20 total
+ERROR: rsalemi@natickps.org has 0.00 shares of INTU and wants to sell 10.00
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ISRG for $3232.70 total
+ERROR: rsalemi@natickps.org has 1081.49 dollars and needs 3232.70 to buy 10.00 shares of ISRG
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of ISRG for $3232.70 total
+ERROR: rsalemi@natickps.org has 0.00 shares of ISRG and wants to sell 10.00
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of KDP for $321.44 total
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of KDP for $321.44 total
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of KHC for $373.53 total
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of KHC for $373.53 total
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of KLAC for $5452.28 total
+ERROR: rsalemi@natickps.org has 1081.49 dollars and needs 5452.28 to buy 10.00 shares of KLAC
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of LULU for $4960.00 total
+ERROR: rsalemi@natickps.org has 1081.49 dollars and needs 4960.00 to buy 10.00 shares of LULU
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of LULU for $4960.00 total
+ERROR: rsalemi@natickps.org has 0.00 shares of LULU and wants to sell 10.00
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of MAR for $2195.49 total
+ERROR: rsalemi@natickps.org has 1081.49 dollars and needs 2195.49 to buy 10.00 shares of MAR
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of MAR for $2195.49 total
+ERROR: rsalemi@natickps.org has 0.00 shares of MAR and wants to sell 10.00
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of MCHP for $829.50 total
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of MCHP for $829.50 total
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of MDLZ for $728.35 total
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of MELI for $15193.80 total
+ERROR: rsalemi@natickps.org has 353.14 dollars and needs 15193.80 to buy 10.00 shares of MELI
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of MNST for $577.10 total
+ERROR: rsalemi@natickps.org has 353.14 dollars and needs 577.10 to buy 10.00 shares of MNST
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of MRNA for $1086.60 total
+ERROR: rsalemi@natickps.org has 353.14 dollars and needs 1086.60 to buy 10.00 shares of MRNA
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of MRNA for $1086.60 total
+ERROR: rsalemi@natickps.org has 0.00 shares of MRNA and wants to sell 10.00
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of MRVL for $580.21 total
+ERROR: rsalemi@natickps.org has 353.14 dollars and needs 580.21 to buy 10.00 shares of MRVL
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of MRVL for $580.21 total
+ERROR: rsalemi@natickps.org has 0.00 shares of MRVL and wants to sell 10.00
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of MU for $826.30 total
+ERROR: rsalemi@natickps.org has 353.14 dollars and needs 826.30 to buy 10.00 shares of MU
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of MU for $826.30 total
+ERROR: rsalemi@natickps.org has 0.00 shares of MU and wants to sell 10.00
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of NFLX for $4746.70 total
+ERROR: rsalemi@natickps.org has 0.00 shares of NFLX and wants to sell 10.00
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of NVDA for $4799.57 total
+ERROR: rsalemi@natickps.org has 353.14 dollars and needs 4799.57 to buy 10.00 shares of NVDA
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of NVDA for $4799.57 total
+ERROR: rsalemi@natickps.org has 0.00 shares of NVDA and wants to sell 10.00
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of NXPI for $2068.69 total
+ERROR: rsalemi@natickps.org has 353.14 dollars and needs 2068.69 to buy 10.00 shares of NXPI
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of NXPI for $2068.69 total
+ERROR: rsalemi@natickps.org has 0.00 shares of NXPI and wants to sell 10.00
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ODFL for $1944.03 total
+ERROR: rsalemi@natickps.org has 353.14 dollars and needs 1944.03 to buy 10.00 shares of ODFL
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of ODFL for $1944.03 total
+ERROR: rsalemi@natickps.org has 0.00 shares of ODFL and wants to sell 10.00
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ON for $762.00 total
+ERROR: rsalemi@natickps.org has 353.14 dollars and needs 762.00 to buy 10.00 shares of ON
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of ON for $762.00 total
+ERROR: rsalemi@natickps.org has 0.00 shares of ON and wants to sell 10.00
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ORLY for $9358.00 total
+ERROR: rsalemi@natickps.org has 353.14 dollars and needs 9358.00 to buy 10.00 shares of ORLY
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of ORLY for $9358.00 total
+ERROR: rsalemi@natickps.org has 0.00 shares of ORLY and wants to sell 10.00
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of PANW for $2833.00 total
+ERROR: rsalemi@natickps.org has 353.14 dollars and needs 2833.00 to buy 10.00 shares of PANW
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of PANW for $2833.00 total
+ERROR: rsalemi@natickps.org has 0.00 shares of PANW and wants to sell 10.00
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of PAYX for $1169.97 total
+ERROR: rsalemi@natickps.org has 353.14 dollars and needs 1169.97 to buy 10.00 shares of PAYX
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of PAYX for $1169.97 total
+ERROR: rsalemi@natickps.org has 0.00 shares of PAYX and wants to sell 10.00
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of PDD for $1477.40 total
+ERROR: rsalemi@natickps.org has 353.14 dollars and needs 1477.40 to buy 10.00 shares of PDD
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of PDD for $1477.40 total
+ERROR: rsalemi@natickps.org has 0.00 shares of PDD and wants to sell 10.00
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of PEP for $1701.71 total
+ERROR: rsalemi@natickps.org has 353.14 dollars and needs 1701.71 to buy 10.00 shares of PEP
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of PEP for $1701.71 total
+ERROR: rsalemi@natickps.org has 0.00 shares of PEP and wants to sell 10.00
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of PYPL for $584.50 total
+ERROR: rsalemi@natickps.org has 353.14 dollars and needs 584.50 to buy 10.00 shares of PYPL
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of PYPL for $584.50 total
+ERROR: rsalemi@natickps.org has 0.00 shares of PYPL and wants to sell 10.00
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of QCOM for $1354.82 total
+ERROR: rsalemi@natickps.org has 353.14 dollars and needs 1354.82 to buy 10.00 shares of QCOM
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of REGN for $9121.70 total
+ERROR: rsalemi@natickps.org has 353.14 dollars and needs 9121.70 to buy 10.00 shares of REGN
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of REGN for $9121.70 total
+ERROR: rsalemi@natickps.org has 0.00 shares of REGN and wants to sell 10.00
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ROP for $5226.98 total
+ERROR: rsalemi@natickps.org has 353.14 dollars and needs 5226.98 to buy 10.00 shares of ROP
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of ROP for $5226.98 total
+ERROR: rsalemi@natickps.org has 0.00 shares of ROP and wants to sell 10.00
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of SBUX for $929.91 total
+ERROR: rsalemi@natickps.org has 353.14 dollars and needs 929.91 to buy 10.00 shares of SBUX
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of SBUX for $929.91 total
+ERROR: rsalemi@natickps.org has 0.00 shares of SBUX and wants to sell 10.00
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of SIRI for $54.01 total
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of SIRI for $54.01 total
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of SNPS for $4901.80 total
+ERROR: rsalemi@natickps.org has 353.14 dollars and needs 4901.80 to buy 10.00 shares of SNPS
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of SNPS for $4901.80 total
+ERROR: rsalemi@natickps.org has 0.00 shares of SNPS and wants to sell 10.00
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of TEAM for $2228.20 total
+ERROR: rsalemi@natickps.org has 353.14 dollars and needs 2228.20 to buy 10.00 shares of TEAM
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of TEAM for $2228.20 total
+ERROR: rsalemi@natickps.org has 0.00 shares of TEAM and wants to sell 10.00
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of TMUS for $1616.56 total
+ERROR: rsalemi@natickps.org has 353.14 dollars and needs 1616.56 to buy 10.00 shares of TMUS
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of TMUS for $1616.56 total
+ERROR: rsalemi@natickps.org has 0.00 shares of TMUS and wants to sell 10.00
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of TSLA for $2379.30 total
+ERROR: rsalemi@natickps.org has 353.14 dollars and needs 2379.30 to buy 10.00 shares of TSLA
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of TTD for $684.00 total
+ERROR: rsalemi@natickps.org has 353.14 dollars and needs 684.00 to buy 10.00 shares of TTD
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of TTWO for $1588.60 total
+ERROR: rsalemi@natickps.org has 353.14 dollars and needs 1588.60 to buy 10.00 shares of TTWO
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of TTWO for $1588.60 total
+ERROR: rsalemi@natickps.org has 0.00 shares of TTWO and wants to sell 10.00
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of TXN for $1631.82 total
+ERROR: rsalemi@natickps.org has 353.14 dollars and needs 1631.82 to buy 10.00 shares of TXN
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of VRSK for $2375.57 total
+ERROR: rsalemi@natickps.org has 353.14 dollars and needs 2375.57 to buy 10.00 shares of VRSK
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of VRTX for $4161.50 total
+ERROR: rsalemi@natickps.org has 353.14 dollars and needs 4161.50 to buy 10.00 shares of VRTX
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of VRTX for $4161.50 total
+ERROR: rsalemi@natickps.org has 0.00 shares of VRTX and wants to sell 10.00
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of WBA for $239.88 total
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of WBD for $113.50 total
+ERROR: rsalemi@natickps.org has 113.26 dollars and needs 113.50 to buy 10.00 shares of WBD
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of WBD for $113.50 total
+ERROR: rsalemi@natickps.org has 0.00 shares of WBD and wants to sell 10.00
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of WDAY for $2670.80 total
+ERROR: rsalemi@natickps.org has 113.26 dollars and needs 2670.80 to buy 10.00 shares of WDAY
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of WDAY for $2670.80 total
+ERROR: rsalemi@natickps.org has 0.00 shares of WDAY and wants to sell 10.00
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of XEL for $630.52 total
+ERROR: rsalemi@natickps.org has 113.26 dollars and needs 630.52 to buy 10.00 shares of XEL
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of XEL for $630.52 total
+ERROR: rsalemi@natickps.org has 0.00 shares of XEL and wants to sell 10.00
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ZS for $2103.30 total
+ERROR: rsalemi@natickps.org has 113.26 dollars and needs 2103.30 to buy 10.00 shares of ZS
+TRAN:01/04/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of ZS for $2103.30 total
+ERROR: rsalemi@natickps.org has 0.00 shares of ZS and wants to sell 10.00
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of AAPL for $1809.49 total
+ERROR: rsalemi@natickps.org has 113.26 dollars and needs 1809.49 to buy 10.00 shares of AAPL
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ABNB for $1359.80 total
+ERROR: rsalemi@natickps.org has 113.26 dollars and needs 1359.80 to buy 10.00 shares of ABNB
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of ABNB for $1359.80 total
+ERROR: rsalemi@natickps.org has 0.00 shares of ABNB and wants to sell 10.00
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ADBE for $5646.00 total
+ERROR: rsalemi@natickps.org has 113.26 dollars and needs 5646.00 to buy 10.00 shares of ADBE
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ADI for $1856.75 total
+ERROR: rsalemi@natickps.org has 113.26 dollars and needs 1856.75 to buy 10.00 shares of ADI
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of ADI for $1856.75 total
+ERROR: rsalemi@natickps.org has 0.00 shares of ADI and wants to sell 10.00
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ADP for $2338.59 total
+ERROR: rsalemi@natickps.org has 113.26 dollars and needs 2338.59 to buy 10.00 shares of ADP
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of ADP for $2338.59 total
+ERROR: rsalemi@natickps.org has 0.00 shares of ADP and wants to sell 10.00
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of AEP for $831.13 total
+ERROR: rsalemi@natickps.org has 113.26 dollars and needs 831.13 to buy 10.00 shares of AEP
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of AEP for $831.13 total
+ERROR: rsalemi@natickps.org has 0.00 shares of AEP and wants to sell 10.00
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of AMD for $1385.80 total
+ERROR: rsalemi@natickps.org has 113.26 dollars and needs 1385.80 to buy 10.00 shares of AMD
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of AMZN for $1452.40 total
+ERROR: rsalemi@natickps.org has 113.26 dollars and needs 1452.40 to buy 10.00 shares of AMZN
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of AMZN for $1452.40 total
+ERROR: rsalemi@natickps.org has 0.00 shares of AMZN and wants to sell 10.00
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ANSS for $3440.80 total
+ERROR: rsalemi@natickps.org has 113.26 dollars and needs 3440.80 to buy 10.00 shares of ANSS
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of ANSS for $3440.80 total
+ERROR: rsalemi@natickps.org has 0.00 shares of ANSS and wants to sell 10.00
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ASML for $7006.54 total
+ERROR: rsalemi@natickps.org has 113.26 dollars and needs 7006.54 to buy 10.00 shares of ASML
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of ASML for $7006.54 total
+ERROR: rsalemi@natickps.org has 0.00 shares of ASML and wants to sell 10.00
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of AVGO for $10448.30 total
+ERROR: rsalemi@natickps.org has 113.26 dollars and needs 10448.30 to buy 10.00 shares of AVGO
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of AVGO for $10448.30 total
+ERROR: rsalemi@natickps.org has 0.00 shares of AVGO and wants to sell 10.00
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of AZN for $673.45 total
+ERROR: rsalemi@natickps.org has 113.26 dollars and needs 673.45 to buy 10.00 shares of AZN
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of BIIB for $2578.80 total
+ERROR: rsalemi@natickps.org has 113.26 dollars and needs 2578.80 to buy 10.00 shares of BIIB
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of BIIB for $2578.80 total
+ERROR: rsalemi@natickps.org has 0.00 shares of BIIB and wants to sell 10.00
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of BKNG for $33994.41 total
+ERROR: rsalemi@natickps.org has 113.26 dollars and needs 33994.41 to buy 10.00 shares of BKNG
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of BKNG for $33994.41 total
+ERROR: rsalemi@natickps.org has 0.00 shares of BKNG and wants to sell 10.00
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of COST for $6539.97 total
+ERROR: rsalemi@natickps.org has 113.26 dollars and needs 6539.97 to buy 10.00 shares of COST
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of CSCO for $496.84 total
+ERROR: rsalemi@natickps.org has 0.00 shares of CSCO and wants to sell 10.00
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of CSGP for $813.40 total
+ERROR: rsalemi@natickps.org has 113.26 dollars and needs 813.40 to buy 10.00 shares of CSGP
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of CSX for $345.11 total
+ERROR: rsalemi@natickps.org has 113.26 dollars and needs 345.11 to buy 10.00 shares of CSX
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of CSX for $345.11 total
+ERROR: rsalemi@natickps.org has 0.00 shares of CSX and wants to sell 10.00
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of CTAS for $5759.74 total
+ERROR: rsalemi@natickps.org has 113.26 dollars and needs 5759.74 to buy 10.00 shares of CTAS
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of CTAS for $5759.74 total
+ERROR: rsalemi@natickps.org has 0.00 shares of CTAS and wants to sell 10.00
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of DASH for $948.10 total
+ERROR: rsalemi@natickps.org has 113.26 dollars and needs 948.10 to buy 10.00 shares of DASH
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of DASH for $948.10 total
+ERROR: rsalemi@natickps.org has 0.00 shares of DASH and wants to sell 10.00
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of DDOG for $1159.90 total
+ERROR: rsalemi@natickps.org has 113.26 dollars and needs 1159.90 to buy 10.00 shares of DDOG
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of DDOG for $1159.90 total
+ERROR: rsalemi@natickps.org has 0.00 shares of DDOG and wants to sell 10.00
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of EA for $1354.29 total
+ERROR: rsalemi@natickps.org has 113.26 dollars and needs 1354.29 to buy 10.00 shares of EA
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of EA for $1354.29 total
+ERROR: rsalemi@natickps.org has 0.00 shares of EA and wants to sell 10.00
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of EXC for $359.25 total
+ERROR: rsalemi@natickps.org has 113.26 dollars and needs 359.25 to buy 10.00 shares of EXC
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of EXC for $359.25 total
+ERROR: rsalemi@natickps.org has 0.00 shares of EXC and wants to sell 10.00
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of FANG for $1533.56 total
+ERROR: rsalemi@natickps.org has 113.26 dollars and needs 1533.56 to buy 10.00 shares of FANG
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of FANG for $1533.56 total
+ERROR: rsalemi@natickps.org has 0.00 shares of FANG and wants to sell 10.00
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of FAST for $612.74 total
+ERROR: rsalemi@natickps.org has 113.26 dollars and needs 612.74 to buy 10.00 shares of FAST
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of FTNT for $583.40 total
+ERROR: rsalemi@natickps.org has 0.00 shares of FTNT and wants to sell 10.00
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of GFS for $560.40 total
+ERROR: rsalemi@natickps.org has 113.26 dollars and needs 560.40 to buy 10.00 shares of GFS
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of GFS for $560.40 total
+ERROR: rsalemi@natickps.org has 0.00 shares of GFS and wants to sell 10.00
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of HON for $2024.17 total
+ERROR: rsalemi@natickps.org has 113.26 dollars and needs 2024.17 to buy 10.00 shares of HON
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of IDXX for $5373.60 total
+ERROR: rsalemi@natickps.org has 113.26 dollars and needs 5373.60 to buy 10.00 shares of IDXX
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ILMN for $1304.80 total
+ERROR: rsalemi@natickps.org has 113.26 dollars and needs 1304.80 to buy 10.00 shares of ILMN
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of ILMN for $1304.80 total
+ERROR: rsalemi@natickps.org has 0.00 shares of ILMN and wants to sell 10.00
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of INTC for $467.53 total
+ERROR: rsalemi@natickps.org has 113.26 dollars and needs 467.53 to buy 10.00 shares of INTC
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of INTC for $467.53 total
+ERROR: rsalemi@natickps.org has 0.00 shares of INTC and wants to sell 10.00
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of INTU for $5873.14 total
+ERROR: rsalemi@natickps.org has 113.26 dollars and needs 5873.14 to buy 10.00 shares of INTU
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of INTU for $5873.14 total
+ERROR: rsalemi@natickps.org has 0.00 shares of INTU and wants to sell 10.00
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ISRG for $3225.00 total
+ERROR: rsalemi@natickps.org has 113.26 dollars and needs 3225.00 to buy 10.00 shares of ISRG
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of KDP for $317.46 total
+ERROR: rsalemi@natickps.org has 113.26 dollars and needs 317.46 to buy 10.00 shares of KDP
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of KDP for $317.46 total
+ERROR: rsalemi@natickps.org has 0.00 shares of KDP and wants to sell 10.00
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of KHC for $375.11 total
+ERROR: rsalemi@natickps.org has 113.26 dollars and needs 375.11 to buy 10.00 shares of KHC
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of KHC for $375.11 total
+ERROR: rsalemi@natickps.org has 0.00 shares of KHC and wants to sell 10.00
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of LULU for $4911.00 total
+ERROR: rsalemi@natickps.org has 113.26 dollars and needs 4911.00 to buy 10.00 shares of LULU
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of LULU for $4911.00 total
+ERROR: rsalemi@natickps.org has 0.00 shares of LULU and wants to sell 10.00
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of MAR for $2219.44 total
+ERROR: rsalemi@natickps.org has 113.26 dollars and needs 2219.44 to buy 10.00 shares of MAR
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of MAR for $2219.44 total
+ERROR: rsalemi@natickps.org has 0.00 shares of MAR and wants to sell 10.00
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of MCHP for $835.37 total
+ERROR: rsalemi@natickps.org has 113.26 dollars and needs 835.37 to buy 10.00 shares of MCHP
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of MRNA for $1111.20 total
+ERROR: rsalemi@natickps.org has 113.26 dollars and needs 1111.20 to buy 10.00 shares of MRNA
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of MRVL for $598.70 total
+ERROR: rsalemi@natickps.org has 113.26 dollars and needs 598.70 to buy 10.00 shares of MRVL
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of MRVL for $598.70 total
+ERROR: rsalemi@natickps.org has 0.00 shares of MRVL and wants to sell 10.00
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of NVDA for $4909.47 total
+ERROR: rsalemi@natickps.org has 113.26 dollars and needs 4909.47 to buy 10.00 shares of NVDA
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of NXPI for $2048.38 total
+ERROR: rsalemi@natickps.org has 113.26 dollars and needs 2048.38 to buy 10.00 shares of NXPI
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ON for $757.00 total
+ERROR: rsalemi@natickps.org has 113.26 dollars and needs 757.00 to buy 10.00 shares of ON
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of ON for $757.00 total
+ERROR: rsalemi@natickps.org has 0.00 shares of ON and wants to sell 10.00
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of PANW for $2829.30 total
+ERROR: rsalemi@natickps.org has 113.26 dollars and needs 2829.30 to buy 10.00 shares of PANW
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of PAYX for $1171.27 total
+ERROR: rsalemi@natickps.org has 113.26 dollars and needs 1171.27 to buy 10.00 shares of PAYX
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of PAYX for $1171.27 total
+ERROR: rsalemi@natickps.org has 0.00 shares of PAYX and wants to sell 10.00
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of PDD for $1465.30 total
+ERROR: rsalemi@natickps.org has 113.26 dollars and needs 1465.30 to buy 10.00 shares of PDD
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of PDD for $1465.30 total
+ERROR: rsalemi@natickps.org has 0.00 shares of PDD and wants to sell 10.00
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of PYPL for $601.20 total
+ERROR: rsalemi@natickps.org has 113.26 dollars and needs 601.20 to buy 10.00 shares of PYPL
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of PYPL for $601.20 total
+ERROR: rsalemi@natickps.org has 0.00 shares of PYPL and wants to sell 10.00
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ROP for $5216.01 total
+ERROR: rsalemi@natickps.org has 113.26 dollars and needs 5216.01 to buy 10.00 shares of ROP
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of ROP for $5216.01 total
+ERROR: rsalemi@natickps.org has 0.00 shares of ROP and wants to sell 10.00
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of SBUX for $924.34 total
+ERROR: rsalemi@natickps.org has 113.26 dollars and needs 924.34 to buy 10.00 shares of SBUX
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of SBUX for $924.34 total
+ERROR: rsalemi@natickps.org has 0.00 shares of SBUX and wants to sell 10.00
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of SIRI for $54.31 total
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of SNPS for $4848.10 total
+ERROR: rsalemi@natickps.org has 58.95 dollars and needs 4848.10 to buy 10.00 shares of SNPS
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of SNPS for $4848.10 total
+ERROR: rsalemi@natickps.org has 0.00 shares of SNPS and wants to sell 10.00
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of TEAM for $2261.00 total
+ERROR: rsalemi@natickps.org has 58.95 dollars and needs 2261.00 to buy 10.00 shares of TEAM
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of TEAM for $2261.00 total
+ERROR: rsalemi@natickps.org has 0.00 shares of TEAM and wants to sell 10.00
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of TTWO for $1582.10 total
+ERROR: rsalemi@natickps.org has 58.95 dollars and needs 1582.10 to buy 10.00 shares of TTWO
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of VRTX for $4165.00 total
+ERROR: rsalemi@natickps.org has 58.95 dollars and needs 4165.00 to buy 10.00 shares of VRTX
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of VRTX for $4165.00 total
+ERROR: rsalemi@natickps.org has 0.00 shares of VRTX and wants to sell 10.00
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of WBD for $112.00 total
+ERROR: rsalemi@natickps.org has 58.95 dollars and needs 112.00 to buy 10.00 shares of WBD
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of WBD for $112.00 total
+ERROR: rsalemi@natickps.org has 0.00 shares of WBD and wants to sell 10.00
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of WDAY for $2658.00 total
+ERROR: rsalemi@natickps.org has 58.95 dollars and needs 2658.00 to buy 10.00 shares of WDAY
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of WDAY for $2658.00 total
+ERROR: rsalemi@natickps.org has 0.00 shares of WDAY and wants to sell 10.00
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of XEL for $630.52 total
+ERROR: rsalemi@natickps.org has 0.00 shares of XEL and wants to sell 10.00
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ZS for $2098.10 total
+ERROR: rsalemi@natickps.org has 58.95 dollars and needs 2098.10 to buy 10.00 shares of ZS
+TRAN:01/05/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of ZS for $2098.10 total
+ERROR: rsalemi@natickps.org has 0.00 shares of ZS and wants to sell 10.00
+TRAN:01/08/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ABNB for $1400.80 total
+ERROR: rsalemi@natickps.org has 58.95 dollars and needs 1400.80 to buy 10.00 shares of ABNB
+TRAN:01/08/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of ABNB for $1400.80 total
+ERROR: rsalemi@natickps.org has 0.00 shares of ABNB and wants to sell 10.00
+TRAN:01/08/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ADI for $1880.94 total
+ERROR: rsalemi@natickps.org has 58.95 dollars and needs 1880.94 to buy 10.00 shares of ADI
+TRAN:01/08/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ADP for $2354.00 total
+ERROR: rsalemi@natickps.org has 58.95 dollars and needs 2354.00 to buy 10.00 shares of ADP
+TRAN:01/08/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of ADP for $2354.00 total
+ERROR: rsalemi@natickps.org has 0.00 shares of ADP and wants to sell 10.00
+TRAN:01/08/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of AMZN for $1491.00 total
+ERROR: rsalemi@natickps.org has 58.95 dollars and needs 1491.00 to buy 10.00 shares of AMZN
+TRAN:01/08/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of AMZN for $1491.00 total
+ERROR: rsalemi@natickps.org has 0.00 shares of AMZN and wants to sell 10.00
+TRAN:01/08/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of AVGO for $10702.92 total
+ERROR: rsalemi@natickps.org has 58.95 dollars and needs 10702.92 to buy 10.00 shares of AVGO
+TRAN:01/08/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of AVGO for $10702.92 total
+ERROR: rsalemi@natickps.org has 0.00 shares of AVGO and wants to sell 10.00
+TRAN:01/08/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of BIIB for $2579.80 total
+ERROR: rsalemi@natickps.org has 58.95 dollars and needs 2579.80 to buy 10.00 shares of BIIB
+TRAN:01/08/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of BKNG for $34540.01 total
+ERROR: rsalemi@natickps.org has 58.95 dollars and needs 34540.01 to buy 10.00 shares of BKNG
+TRAN:01/08/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of CSX for $345.80 total
+ERROR: rsalemi@natickps.org has 0.00 shares of CSX and wants to sell 10.00
+TRAN:01/08/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of DASH for $985.20 total
+ERROR: rsalemi@natickps.org has 58.95 dollars and needs 985.20 to buy 10.00 shares of DASH
+TRAN:01/08/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of DASH for $985.20 total
+ERROR: rsalemi@natickps.org has 0.00 shares of DASH and wants to sell 10.00
+TRAN:01/08/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of DDOG for $1192.50 total
+ERROR: rsalemi@natickps.org has 58.95 dollars and needs 1192.50 to buy 10.00 shares of DDOG
+TRAN:01/08/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of DDOG for $1192.50 total
+ERROR: rsalemi@natickps.org has 0.00 shares of DDOG and wants to sell 10.00
+TRAN:01/08/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of EA for $1362.78 total
+ERROR: rsalemi@natickps.org has 58.95 dollars and needs 1362.78 to buy 10.00 shares of EA
+TRAN:01/08/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of EXC for $363.01 total
+ERROR: rsalemi@natickps.org has 58.95 dollars and needs 363.01 to buy 10.00 shares of EXC
+TRAN:01/08/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of EXC for $363.01 total
+ERROR: rsalemi@natickps.org has 0.00 shares of EXC and wants to sell 10.00
+TRAN:01/08/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of FANG for $1531.69 total
+ERROR: rsalemi@natickps.org has 58.95 dollars and needs 1531.69 to buy 10.00 shares of FANG
+TRAN:01/08/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of FANG for $1531.69 total
+ERROR: rsalemi@natickps.org has 0.00 shares of FANG and wants to sell 10.00
+TRAN:01/08/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of GFS for $582.00 total
+ERROR: rsalemi@natickps.org has 58.95 dollars and needs 582.00 to buy 10.00 shares of GFS
+TRAN:01/08/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of GFS for $582.00 total
+ERROR: rsalemi@natickps.org has 0.00 shares of GFS and wants to sell 10.00
+TRAN:01/08/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ILMN for $1336.60 total
+ERROR: rsalemi@natickps.org has 58.95 dollars and needs 1336.60 to buy 10.00 shares of ILMN
+TRAN:01/08/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of INTU for $5966.47 total
+ERROR: rsalemi@natickps.org has 58.95 dollars and needs 5966.47 to buy 10.00 shares of INTU
+TRAN:01/08/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of KDP for $315.87 total
+ERROR: rsalemi@natickps.org has 58.95 dollars and needs 315.87 to buy 10.00 shares of KDP
+TRAN:01/08/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of KDP for $315.87 total
+ERROR: rsalemi@natickps.org has 0.00 shares of KDP and wants to sell 10.00
+TRAN:01/08/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of KHC for $378.17 total
+ERROR: rsalemi@natickps.org has 58.95 dollars and needs 378.17 to buy 10.00 shares of KHC
+TRAN:01/08/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of KHC for $378.17 total
+ERROR: rsalemi@natickps.org has 0.00 shares of KHC and wants to sell 10.00
+TRAN:01/08/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of LULU for $4914.80 total
+ERROR: rsalemi@natickps.org has 58.95 dollars and needs 4914.80 to buy 10.00 shares of LULU
+TRAN:01/08/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of MRVL for $640.56 total
+ERROR: rsalemi@natickps.org has 58.95 dollars and needs 640.56 to buy 10.00 shares of MRVL
+TRAN:01/08/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ON for $779.40 total
+ERROR: rsalemi@natickps.org has 58.95 dollars and needs 779.40 to buy 10.00 shares of ON
+TRAN:01/08/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of PDD for $1475.50 total
+ERROR: rsalemi@natickps.org has 58.95 dollars and needs 1475.50 to buy 10.00 shares of PDD
+TRAN:01/08/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of PDD for $1475.50 total
+ERROR: rsalemi@natickps.org has 0.00 shares of PDD and wants to sell 10.00
+TRAN:01/08/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of PYPL for $617.40 total
+ERROR: rsalemi@natickps.org has 58.95 dollars and needs 617.40 to buy 10.00 shares of PYPL
+TRAN:01/08/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of PYPL for $617.40 total
+ERROR: rsalemi@natickps.org has 0.00 shares of PYPL and wants to sell 10.00
+TRAN:01/08/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ROP for $5280.52 total
+ERROR: rsalemi@natickps.org has 58.95 dollars and needs 5280.52 to buy 10.00 shares of ROP
+TRAN:01/08/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of ROP for $5280.52 total
+ERROR: rsalemi@natickps.org has 0.00 shares of ROP and wants to sell 10.00
+TRAN:01/08/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of SBUX for $936.27 total
+ERROR: rsalemi@natickps.org has 58.95 dollars and needs 936.27 to buy 10.00 shares of SBUX
+TRAN:01/08/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of SBUX for $936.27 total
+ERROR: rsalemi@natickps.org has 0.00 shares of SBUX and wants to sell 10.00
+TRAN:01/08/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of SNPS for $4999.80 total
+ERROR: rsalemi@natickps.org has 58.95 dollars and needs 4999.80 to buy 10.00 shares of SNPS
+TRAN:01/08/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of SNPS for $4999.80 total
+ERROR: rsalemi@natickps.org has 0.00 shares of SNPS and wants to sell 10.00
+TRAN:01/08/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of TEAM for $2355.90 total
+ERROR: rsalemi@natickps.org has 58.95 dollars and needs 2355.90 to buy 10.00 shares of TEAM
+TRAN:01/08/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of TEAM for $2355.90 total
+ERROR: rsalemi@natickps.org has 0.00 shares of TEAM and wants to sell 10.00
+TRAN:01/08/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of VRTX for $4191.20 total
+ERROR: rsalemi@natickps.org has 58.95 dollars and needs 4191.20 to buy 10.00 shares of VRTX
+TRAN:01/08/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of WBD for $114.00 total
+ERROR: rsalemi@natickps.org has 58.95 dollars and needs 114.00 to buy 10.00 shares of WBD
+TRAN:01/08/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of WBD for $114.00 total
+ERROR: rsalemi@natickps.org has 0.00 shares of WBD and wants to sell 10.00
+TRAN:01/08/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of WDAY for $2729.40 total
+ERROR: rsalemi@natickps.org has 58.95 dollars and needs 2729.40 to buy 10.00 shares of WDAY
+TRAN:01/08/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of WDAY for $2729.40 total
+ERROR: rsalemi@natickps.org has 0.00 shares of WDAY and wants to sell 10.00
+TRAN:01/08/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of ZS for $2181.00 total
+ERROR: rsalemi@natickps.org has 58.95 dollars and needs 2181.00 to buy 10.00 shares of ZS
+TRAN:01/09/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of AMZN for $1513.70 total
+ERROR: rsalemi@natickps.org has 58.95 dollars and needs 1513.70 to buy 10.00 shares of AMZN
+TRAN:01/09/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of AMZN for $1513.70 total
+ERROR: rsalemi@natickps.org has 0.00 shares of AMZN and wants to sell 10.00
+TRAN:01/09/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of AVGO for $10779.00 total
+ERROR: rsalemi@natickps.org has 58.95 dollars and needs 10779.00 to buy 10.00 shares of AVGO
+TRAN:01/09/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of AVGO for $10779.00 total
+ERROR: rsalemi@natickps.org has 0.00 shares of AVGO and wants to sell 10.00
+TRAN:01/09/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of EXC for $360.54 total
+ERROR: rsalemi@natickps.org has 58.95 dollars and needs 360.54 to buy 10.00 shares of EXC
+TRAN:01/09/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of FANG for $1502.19 total
+ERROR: rsalemi@natickps.org has 0.00 shares of FANG and wants to sell 10.00
+TRAN:01/09/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of GFS for $584.20 total
+ERROR: rsalemi@natickps.org has 58.95 dollars and needs 584.20 to buy 10.00 shares of GFS
+TRAN:01/09/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of GFS for $584.20 total
+ERROR: rsalemi@natickps.org has 0.00 shares of GFS and wants to sell 10.00
+TRAN:01/09/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of KDP for $317.56 total
+ERROR: rsalemi@natickps.org has 58.95 dollars and needs 317.56 to buy 10.00 shares of KDP
+TRAN:01/09/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of KHC for $381.14 total
+ERROR: rsalemi@natickps.org has 58.95 dollars and needs 381.14 to buy 10.00 shares of KHC
+TRAN:01/09/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of KHC for $381.14 total
+ERROR: rsalemi@natickps.org has 0.00 shares of KHC and wants to sell 10.00
+TRAN:01/09/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of PYPL for $610.50 total
+ERROR: rsalemi@natickps.org has 58.95 dollars and needs 610.50 to buy 10.00 shares of PYPL
+TRAN:01/09/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of PYPL for $610.50 total
+ERROR: rsalemi@natickps.org has 0.00 shares of PYPL and wants to sell 10.00
+TRAN:01/09/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of SBUX for $925.33 total
+ERROR: rsalemi@natickps.org has 58.95 dollars and needs 925.33 to buy 10.00 shares of SBUX
+TRAN:01/09/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of SBUX for $925.33 total
+ERROR: rsalemi@natickps.org has 0.00 shares of SBUX and wants to sell 10.00
+TRAN:01/09/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of SNPS for $5018.70 total
+ERROR: rsalemi@natickps.org has 58.95 dollars and needs 5018.70 to buy 10.00 shares of SNPS
+TRAN:01/09/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of WDAY for $2758.20 total
+ERROR: rsalemi@natickps.org has 58.95 dollars and needs 2758.20 to buy 10.00 shares of WDAY
+TRAN:01/09/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of WDAY for $2758.20 total
+ERROR: rsalemi@natickps.org has 0.00 shares of WDAY and wants to sell 10.00
+TRAN:01/10/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of AMZN for $1537.30 total
+ERROR: rsalemi@natickps.org has 58.95 dollars and needs 1537.30 to buy 10.00 shares of AMZN
+TRAN:01/10/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of GFS for $571.80 total
+ERROR: rsalemi@natickps.org has 58.95 dollars and needs 571.80 to buy 10.00 shares of GFS
+TRAN:01/10/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of GFS for $571.80 total
+ERROR: rsalemi@natickps.org has 0.00 shares of GFS and wants to sell 10.00
+TRAN:01/10/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of PYPL for $609.60 total
+ERROR: rsalemi@natickps.org has 58.95 dollars and needs 609.60 to buy 10.00 shares of PYPL
+TRAN:01/10/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of SBUX for $929.41 total
+ERROR: rsalemi@natickps.org has 58.95 dollars and needs 929.41 to buy 10.00 shares of SBUX
+TRAN:01/10/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of SBUX for $929.41 total
+ERROR: rsalemi@natickps.org has 0.00 shares of SBUX and wants to sell 10.00
+TRAN:01/11/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of GFS for $569.50 total
+ERROR: rsalemi@natickps.org has 58.95 dollars and needs 569.50 to buy 10.00 shares of GFS
+TRAN:01/11/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of GFS for $569.50 total
+ERROR: rsalemi@natickps.org has 0.00 shares of GFS and wants to sell 10.00
+TRAN:01/12/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of GFS for $573.90 total
+ERROR: rsalemi@natickps.org has 58.95 dollars and needs 573.90 to buy 10.00 shares of GFS
+TRAN:01/12/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of GFS for $573.90 total
+ERROR: rsalemi@natickps.org has 0.00 shares of GFS and wants to sell 10.00
+TRAN:01/16/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of GFS for $556.10 total
+ERROR: rsalemi@natickps.org has 58.95 dollars and needs 556.10 to buy 10.00 shares of GFS
+TRAN:01/16/2024 00:00:00: rsalemi@natickps.org wants to Sell 10.000 shares of GFS for $556.10 total
+ERROR: rsalemi@natickps.org has 0.00 shares of GFS and wants to sell 10.00
+TRAN:01/17/2024 00:00:00: rsalemi@natickps.org wants to Buy 10.000 shares of GFS for $548.70 total
+ERROR: rsalemi@natickps.org has 58.95 dollars and needs 548.70 to buy 10.00 shares of GFS

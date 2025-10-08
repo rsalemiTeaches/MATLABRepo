@@ -1,0 +1,307 @@
+MUNI,SchoolName,Subject,Exceeds,Meets,Partial,Fail,Total,AvgScore
+Abington,Abington - Abington High,BIO,3,47,64,12,126,495
+Acton,Acton-Boxborough - Acton-Boxborough Regional High,BIO,54,127,40,8,229,516
+Boxborough,Acton-Boxborough - Acton-Boxborough Regional High,BIO,54,127,40,8,229,516
+Agawam,Agawam - Agawam High,BIO,13,22,4,10,49,510
+Agawam,Agawam - Agawam High,PHY,4,78,131,12,225,496
+Amesbury,Amesbury - Amesbury High,BIO,10,50,50,10,120,501
+Amherst,Amherst-Pelham - Amherst Regional High,BIO,2,24,29,11,66,492
+Pelham,Amherst-Pelham - Amherst Regional High,BIO,2,24,29,11,66,492
+Andover,Andover - Andover High,BIO,2,7,11,2,22,501
+Andover,Andover - Andover High,PHY,110,163,98,17,388,514
+Arlington,Arlington - Arlington High,BIO,4,3,2,2,11,511
+Arlington,Arlington - Arlington High,PHY,121,165,78,8,372,518
+Ashburnham,Ashburnham-Westminster - Oakmont Regional High School,BIO,0,17,24,4,45,495
+Westminster,Ashburnham-Westminster - Oakmont Regional High School,BIO,0,17,24,4,45,495
+Ashland,Ashland - Ashland High,BIO,42,118,44,12,216,512
+Athol,Athol-Royalston - Athol High,BIO,1,13,81,25,120,482
+Royalston,Athol-Royalston - Athol High,BIO,1,13,81,25,120,482
+Attleboro,Attleboro - Attleboro High,BIO,0,0,1,9,10,457
+Attleboro,Attleboro - Attleboro High,PHY,30,157,230,49,466,496
+Auburn,Auburn - Auburn Senior High,BIO,21,86,63,10,180,504
+Avon,Avon - Avon Middle High School,BIO,0,6,26,17,49,480
+Barnstable,Barnstable - Barnstable High,BIO,17,119,120,49,305,495
+Barnstable,Barnstable - Barnstable High,PHY,1,8,18,3,30,493
+Bedford,Bedford - Bedford High,PHY,79,79,51,3,212,519
+Belchertown,Belchertown - Belchertown High,BIO,34,61,36,10,141,511
+Bellingham,Bellingham - Bellingham High School,BIO,8,63,70,13,154,498
+Belmont,Belmont - Belmont High,PHY,213,103,41,8,365,532
+Berlin,Berlin-Boylston - Tahanto Regional High,BIO,22,49,18,1,90,517
+Boylston,Berlin-Boylston - Tahanto Regional High,BIO,22,49,18,1,90,517
+Beverly,Beverly - Beverly High,BIO,44,136,87,36,303,504
+Billerica,Billerica - Billerica Memorial High School,BIO,46,145,85,16,292,509
+Blackstone,Blackstone-Millville - Blackstone Millville RHS,BIO,7,16,2,1,26,524
+Millville,Blackstone-Millville - Blackstone Millville RHS,BIO,7,16,2,1,26,524
+Boston,Boston - Another Course To College,PHY,0,2,19,15,36,476
+Boston,Boston - Boston Arts Academy,PHY,2,44,70,17,133,492
+Boston,Boston - Boston Community Leadership Academy,PHY,0,10,35,39,84,474
+Boston,Boston - Boston International High School & Newcomers Academy,PHY,0,0,19,44,63,463
+Boston,Boston - Boston Latin Academy,PHY,37,157,72,4,270,510
+Boston,Boston - Boston Latin School,BIO,158,211,35,0,404,526
+Boston,Boston - Brighton High School,BIO,0,0,3,8,11,462
+Boston,Boston - Brighton High School,PHY,0,7,20,41,68,469
+Boston,Boston - Burke High School,BIO,0,2,5,12,19,483
+Boston,Boston - Burke High School,PHY,0,12,29,7,48,484
+Boston,Boston - Charlestown High School,BIO,0,4,9,23,36,469
+Boston,Boston - Community Academy of Science and Health,BIO,0,10,20,24,54,480
+Boston,Boston - Dearborn 6-12 STEM Academy,BIO,0,8,43,25,76,478
+Boston,Boston - East Boston High School,BIO,0,4,15,31,50,468
+Boston,Boston - East Boston High School,PHY,2,36,78,37,153,486
+Boston,Boston - Excel High School,PHY,0,4,26,31,61,473
+Boston,Boston - Fenway High School,PHY,2,17,41,22,82,485
+Boston,Boston - Henderson K-12 Inclusion School Upper,PHY,1,7,31,17,56,481
+Boston,Boston - Lyon High School,PHY,0,1,11,11,23,470
+Boston,Boston - Madison Park Technical Vocational High School,BIO,0,0,3,11,14,486
+Boston,Boston - Madison Park Technical Vocational High School,PHY,1,11,88,125,225,470
+Boston,Boston - Margarita Muniz Academy,PHY,0,0,30,40,70,468
+Boston,Boston - New Mission High School,BIO,1,20,52,34,107,484
+Boston,Boston - New Mission High School,PHY,0,0,8,8,16,467
+Boston,Boston - O'Bryant School of Math & Science,BIO,24,162,118,10,314,504
+Boston,Boston - Quincy Upper School,BIO,0,10,36,17,63,481
+Boston,Boston - Snowden International High School,PHY,0,8,56,32,96,477
+Boston,Boston - TechBoston Academy,BIO,0,9,43,28,80,478
+Boston,Boston - TechBoston Academy,PHY,0,2,34,19,55,476
+Bourne,Bourne - Bourne High School,BIO,8,32,29,6,75,501
+Braintree,Braintree - Braintree High,BIO,100,169,96,26,391,512
+Bridgewater,Bridgewater-Raynham - Bridgewater-Raynham Regional,BIO,27,159,132,25,343,501
+Raynham,Bridgewater-Raynham - Bridgewater-Raynham Regional,BIO,27,159,132,25,343,501
+Brockton,Brockton - Brockton Champion High School,BIO,0,3,5,9,17,477
+Brockton,Brockton - Brockton High,BIO,18,155,396,239,808,483
+Brockton,Brockton - PROMISE College and Career Academy,BIO,0,11,22,2,35,490
+Brookline,Brookline - Brookline High,BIO,2,2,4,3,11,489
+Brookline,Brookline - Brookline High,PHY,201,184,72,8,465,524
+Burlington,Burlington - Burlington High,BIO,30,95,62,10,197,507
+Cambridge,Cambridge - Cambridge Rindge and Latin,BIO,1,2,3,9,15,481
+Cambridge,Cambridge - Cambridge Rindge and Latin,PHY,18,74,94,36,222,496
+Canton,Canton - Canton High,BIO,59,124,56,13,252,513
+Carver,Carver - Carver Middle/High School,PHY,2,23,47,6,78,493
+Chelmsford,Chelmsford - Chelmsford High,BIO,70,179,98,20,367,510
+Chelsea,Chelsea - Chelsea High,BIO,6,68,172,191,437,477
+Chicopee,Chicopee - Chicopee Academy,PHY,0,0,3,7,10,467
+Chicopee,Chicopee - Chicopee Comprehensive High School,BIO,12,86,141,34,273,494
+Chicopee,Chicopee - Chicopee High,BIO,0,29,100,50,179,481
+Clinton,Clinton - Clinton Senior High,BIO,0,0,10,9,19,470
+Clinton,Clinton - Clinton Senior High,PHY,5,40,79,18,142,492
+Cohasset,Cohasset - Cohasset High School,PHY,19,69,22,2,112,511
+Concord,Concord-Carlisle - Concord Carlisle High,BIO,104,132,58,11,305,519
+Carlisle,Concord-Carlisle - Concord Carlisle High,BIO,104,132,58,11,305,519
+Danvers,Danvers - Danvers High,BIO,13,76,72,8,169,501
+Dartmouth,Dartmouth - Dartmouth High,BIO,22,103,92,13,230,504
+Dedham,Dedham - Dedham High,BIO,16,71,69,12,168,502
+Dennis,Dennis-Yarmouth - Dennis-Yarmouth Regional High,BIO,4,40,55,20,119,492
+Yarmouth,Dennis-Yarmouth - Dennis-Yarmouth Regional High,BIO,4,40,55,20,119,492
+Dennis,Dennis-Yarmouth - Dennis-Yarmouth Regional High,PHY,0,12,22,1,35,495
+Yarmouth,Dennis-Yarmouth - Dennis-Yarmouth Regional High,PHY,0,12,22,1,35,495
+Dennis,Dighton-Rehoboth - Dighton-Rehoboth Regional High School,BIO,12,76,50,13,151,502
+Yarmouth,Dighton-Rehoboth - Dighton-Rehoboth Regional High School,BIO,12,76,50,13,151,502
+Douglas,Douglas - Douglas High School,BIO,7,37,23,4,71,505
+Dover,Dover-Sherborn - Dover-Sherborn Regional High,BIO,61,97,21,1,180,523
+Sherborn,Dover-Sherborn - Dover-Sherborn Regional High,BIO,61,97,21,1,180,523
+Dracut,Dracut - Dracut Senior High,BIO,11,75,103,21,210,496
+Dudley,Dudley-Charlton Reg - Shepherd Hill Regional High,BIO,22,97,46,3,168,511
+Charlton,Dudley-Charlton Reg - Shepherd Hill Regional High,BIO,22,97,46,3,168,511
+Dudley,Dudley-Charlton Reg - Shepherd Hill Regional High,PHY,0,3,65,18,86,478
+Charlton,Dudley-Charlton Reg - Shepherd Hill Regional High,PHY,0,3,65,18,86,478
+Duxbury,Duxbury - Duxbury High,BIO,33,127,59,6,225,511
+East Bridgewater,East Bridgewater - East Bridgewater JR./SR. High School,BIO,6,50,67,14,137,496
+East Longmeadow,East Longmeadow - East Longmeadow High,BIO,34,108,53,10,205,510
+Easthampton,Easthampton - Easthampton High,BIO,3,25,24,2,54,501
+Easthampton,Easthampton - Easthampton High,PHY,5,9,4,0,18,513
+Easton,Easton - Oliver Ames High,PHY,23,121,85,8,237,505
+Everett,Everett - Everett High,BIO,10,104,196,128,438,484
+Everett,Everett - Everett High,PHY,0,12,19,1,32,495
+Fairhaven,Fairhaven - Fairhaven High,BIO,6,52,75,17,150,494
+Fall River,Fall River - B M C Durfee High,BIO,17,93,238,238,586,480
+Fall River,Fall River - B M C Durfee High,PHY,0,0,0,10,10,452
+Fall River,Fall River - Resiliency Preparatory Academy,BIO,0,0,1,12,13,457
+Fall River,Fall River - Stone PK-12 School,PHY,0,0,4,7,11,466
+Falmouth,Falmouth - Falmouth High,BIO,12,59,63,25,159,496
+Fitchburg,Fitchburg - Fitchburg High,BIO,3,40,120,100,263,479
+Foxborough,Foxborough - Foxborough High,BIO,27,102,57,9,195,508
+Framingham,Framingham - Framingham High School,BIO,38,178,174,213,603,487
+Franklin,Franklin - Franklin High,BIO,89,190,87,12,378,514
+Freetown,Freetown-Lakeville - Apponequet Regional High,BIO,28,88,40,8,164,512
+Lakeville,Freetown-Lakeville - Apponequet Regional High,BIO,28,88,40,8,164,512
+Gardner,Gardner - Gardner High,BIO,1,35,70,40,146,483
+Georgetown,Georgetown - Georgetown High School,BIO,3,22,26,5,56,498
+Gill,Gill-Montague - Turners Fall High,BIO,0,1,11,5,17,481
+Montague,Gill-Montague - Turners Fall High,BIO,0,1,11,5,17,481
+Gloucester,Gloucester - Gloucester High,BIO,17,47,55,26,145,495
+Grafton,Grafton - Grafton High School,BIO,15,94,85,10,204,503
+Granby,Granby - Granby Jr Sr High School,BIO,0,23,22,1,46,501
+Greenfield,Greenfield - Greenfield High,PHY,5,12,32,22,71,485
+Groton,Groton-Dunstable - Groton Dunstable Regional,BIO,36,77,27,2,142,516
+Dunstable,Groton-Dunstable - Groton Dunstable Regional,BIO,36,77,27,2,142,516
+Hadley,Hadley - Hopkins Academy,PHY,6,16,8,0,30,517
+Hamilton,Hamilton-Wenham - Hamilton-Wenham Regional High,BIO,22,50,30,2,104,512
+Wenham,Hamilton-Wenham - Hamilton-Wenham Regional High,BIO,22,50,30,2,104,512
+Hampden,Hampden-Wilbraham - Minnechaug Regional High,BIO,8,48,38,10,104,503
+Wilbraham,Hampden-Wilbraham - Minnechaug Regional High,BIO,8,48,38,10,104,503
+Hanover,Hanover - Hanover High,BIO,28,73,45,2,148,511
+Harvard,Harvard - The Bromfield High School,BIO,24,33,13,2,72,518
+Harvard,Harvard - The Bromfield High School,PHY,34,41,5,3,83,526
+Hatfield,Hatfield - Smith Academy,BIO,0,14,7,0,21,504
+Haverhill,Haverhill - Haverhill High,BIO,17,111,181,118,427,488
+Hingham,Hingham - Hingham High,BIO,67,129,65,7,268,514
+Holbrook,Holbrook - Holbrook Middle High School,PHY,3,23,24,11,61,491
+Holliston,Holliston - Holliston High,BIO,19,46,18,5,88,515
+Holyoke,Holyoke - Holyoke High,BIO,7,60,141,118,326,480
+Hopedale,Hopedale - Hopedale Jr Sr High,BIO,3,26,16,2,47,504
+Hopedale,Hopedale - Hopedale Jr Sr High,PHY,0,3,7,5,15,485
+Hopkinton,Hopkinton - Hopkinton High,BIO,122,141,43,8,314,523
+Hudson,Hudson - Hudson High,BIO,11,62,48,28,149,497
+Hull,Hull - Hull High,PHY,8,23,22,8,61,501
+Ipswich,Ipswich - Ipswich High,BIO,17,55,31,9,112,507
+Lawrence,Lawrence - Lawrence High School,BIO,2,39,285,311,637,472
+Lawrence,Lawrence - Lawrence High School,PHY,7,52,34,1,94,506
+Lawrence,Lawrence - School for Exceptional Studies,BIO,0,0,2,8,10,468
+Lee,Lee - Lee Middle/High School,BIO,1,21,16,0,38,503
+Leicester,Leicester - Leicester High,BIO,8,46,44,14,112,497
+Lenox,Lenox - Lenox Memorial High,BIO,1,23,17,2,43,506
+Lenox,Lenox - Lenox Memorial High,PHY,13,6,0,0,19,533
+Leominster,Leominster - Center For Technical Education Innovation,BIO,13,88,130,37,268,493
+Leominster,Leominster - Leominster Center for Excellence,BIO,0,4,7,1,12,493
+Leominster,Leominster - Leominster High School,BIO,15,60,44,9,128,505
+Lexington,Lexington - Lexington High,BIO,297,225,51,3,576,529
+Lincoln,Lincoln-Sudbury - Lincoln-Sudbury Regional High,BIO,95,201,80,8,384,516
+Sudbury,Lincoln-Sudbury - Lincoln-Sudbury Regional High,BIO,95,201,80,8,384,516
+Littleton,Littleton - Littleton High School,BIO,34,57,32,1,124,515
+Longmeadow,Longmeadow - Longmeadow High,BIO,62,124,46,6,238,517
+Lowell,Lowell - Lowell High,BIO,34,167,275,165,641,488
+Lowell,Lowell - The Career Academy,BIO,0,1,0,11,12,459
+Ludlow,Ludlow - Ludlow Senior High,BIO,15,81,80,24,200,498
+Lunenburg,Lunenburg - Lunenburg High,BIO,9,53,29,1,92,509
+Lynn,Lynn - Classical High,BIO,7,80,175,88,350,485
+Lynn,Lynn - Fredrick Douglass Collegiate Academy,BIO,1,19,38,13,71,486
+Lynn,Lynn - Lynn English High,BIO,11,58,148,125,342,481
+Lynn,Lynn - Lynn Vocational Technical Institute,BIO,3,79,142,60,284,487
+Lynnfield,Lynnfield - Lynnfield High,BIO,20,80,27,5,132,512
+Malden,Malden - Malden High,BIO,31,154,158,71,414,495
+Mansfield,Mansfield - Mansfield High,BIO,40,124,89,7,260,507
+Marblehead,Marblehead - Marblehead High,BIO,49,94,42,6,191,515
+Marlborough,Marlborough - Marlborough High,BIO,0,0,21,52,73,464
+Marlborough,Marlborough - Marlborough High,PHY,9,43,92,23,167,491
+Marshfield,Marshfield - Marshfield High,BIO,27,148,98,15,288,505
+Mashpee,Mashpee - Mashpee Middle-High School,BIO,3,54,42,8,107,500
+Maynard,Maynard - Maynard High,PHY,13,40,17,4,74,511
+Medfield,Medfield - Medfield Senior High,BIO,50,102,20,1,173,521
+Medford,Medford - Medford High,BIO,30,122,104,45,301,499
+Medway,Medway - Medway High,BIO,24,87,27,6,144,512
+Melrose,Melrose - Melrose High,BIO,36,110,64,17,227,507
+Mendon,Mendon-Upton - Nipmuc Regional High,BIO,22,61,39,6,128,508
+Upton,Mendon-Upton - Nipmuc Regional High,BIO,22,61,39,6,128,508
+Methuen,Methuen - Methuen High,BIO,22,165,178,97,462,492
+Middleborough,Middleborough - Middleborough High,BIO,8,35,31,15,89,500
+Milford,Milford - Milford High,BIO,9,110,137,56,312,492
+Millbury,Millbury - Millbury Junior/Senior High,BIO,3,27,62,13,105,492
+Millis,Millis - Millis High School,BIO,8,38,19,1,66,510
+Milton,Milton - Milton High,BIO,68,113,55,7,243,517
+Monson,Monson - Monson High School,BIO,1,13,13,3,30,497
+Nantucket,Nantucket - Nantucket High,BIO,19,46,32,7,104,509
+Nantucket,Nantucket - Nantucket High,PHY,1,16,24,3,44,494
+Natick,Natick - Natick High,PHY,130,181,89,12,412,517
+Needham,Needham - Needham High,BIO,97,230,74,11,412,515
+Needham,Needham - Needham High,PHY,3,5,2,0,10,511
+New Bedford,New Bedford - New Bedford High,BIO,7,108,270,289,674,478
+Newburyport,Newburyport - Newburyport High,BIO,33,86,58,9,186,510
+Newton,Newton - Newton North High,PHY,172,230,90,20,512,518
+Newton,Newton - Newton South High,PHY,181,195,59,8,443,523
+North Adams,North Adams - Drury High,BIO,3,12,42,19,76,485
+North Andover,North Andover - North Andover High,BIO,52,162,108,13,335,508
+North Attleborough,North Attleborough - North Attleboro High,BIO,24,113,77,15,229,506
+North Brookfield,North Brookfield - North Brookfield High,BIO,0,4,9,6,19,481
+North Reading,North Reading - North Reading High,BIO,39,101,30,3,173,518
+Northampton,Northampton - Northampton High,BIO,30,46,26,7,109,514
+Northborough,Northboro-Southboro - Algonquin Regional High,BIO,85,139,45,3,272,520
+Southborough,Northboro-Southboro - Algonquin Regional High,BIO,85,139,45,3,272,520
+Northbridge,Northbridge - Northbridge High,BIO,6,43,72,18,139,493
+Norton,Norton - Norton High,BIO,12,76,68,11,167,500
+Norwell,Norwell - Norwell High,BIO,25,99,19,1,144,516
+Norwood,Norwood - Norwood High,BIO,11,77,82,36,206,494
+Oxford,Oxford - Oxford High,BIO,7,28,47,16,98,493
+Palmer,Palmer - Palmer High,PHY,1,5,12,6,24,485
+Peabody,Peabody - Peabody Veterans Memorial High,BIO,15,98,143,71,327,490
+Pembroke,Pembroke - Pembroke High School,BIO,30,82,42,5,159,510
+Pittsfield,Pittsfield - Pittsfield High,BIO,3,16,30,31,80,488
+Pittsfield,Pittsfield - Pittsfield High,PHY,5,23,24,7,59,498
+Pittsfield,Pittsfield - Taconic High,BIO,1,39,87,49,176,483
+Pittsfield,Pittsfield - Taconic High,PHY,1,7,20,9,37,484
+Plymouth,Plymouth - Plymouth North High,BIO,5,74,151,66,296,487
+Plymouth,Plymouth - Plymouth South High,BIO,4,63,147,30,244,489
+Quincy,Quincy - North Quincy High,BIO,70,161,80,17,328,511
+Quincy,Quincy - Quincy High,BIO,41,128,129,49,347,499
+Randolph,Randolph - Randolph High,BIO,4,17,13,10,44,495
+Randolph,Randolph - Randolph High,PHY,0,17,53,47,117,475
+Reading,Reading - Reading Memorial High,BIO,55,109,76,11,251,511
+Revere,Revere - CityLab Innovation High School,BIO,1,10,12,9,32,484
+Revere,Revere - Revere High,BIO,30,141,159,82,412,495
+Rockland,Rockland - Rockland Senior High,BIO,22,69,45,14,150,505
+Rockport,Rockport - Rockport High,BIO,6,24,18,5,53,502
+Salem,Salem - Salem High,BIO,26,58,79,54,217,494
+Sandwich,Sandwich - Sandwich Middle High School,BIO,18,63,34,8,123,507
+Saugus,Saugus - Saugus High,BIO,8,57,75,34,174,491
+Scituate,Scituate - Scituate High School,BIO,28,81,42,9,160,510
+Seekonk,Seekonk - Seekonk High,BIO,5,74,46,9,134,501
+Sharon,Sharon - Sharon High,PHY,104,115,59,5,283,521
+Shrewsbury,Shrewsbury - Shrewsbury High School,BIO,99,85,4,7,195,530
+Shrewsbury,Shrewsbury - Shrewsbury High School,PHY,17,147,119,5,288,503
+Somerville,Somerville - Somerville High,BIO,30,98,104,78,310,494
+South Hadley,South Hadley - South Hadley High,BIO,12,48,31,6,97,504
+Southbridge,Southbridge - Southbridge High School,BIO,0,8,35,28,71,477
+Southbridge,Southbridge - Southbridge High School,PHY,0,0,5,34,39,459
+Springfield,Springfield - Conservatory of the Arts,BIO,1,7,24,14,46,484
+Springfield,Springfield - High School Of Commerce,BIO,5,29,53,63,150,481
+Springfield,Springfield - High School Of Commerce,PHY,1,10,12,2,25,498
+Springfield,Springfield - John J Duggan Academy,BIO,1,14,29,30,74,479
+Springfield,Springfield - Roger L. Putnam Vocational Technical Academy,BIO,0,0,6,5,11,470
+Springfield,Springfield - Roger L. Putnam Vocational Technical Academy,PHY,4,59,205,86,354,484
+Springfield,Springfield - Springfield Central High,BIO,8,56,224,160,448,479
+Springfield,Springfield - Springfield High School of Science and Technology,BIO,0,31,131,104,266,476
+Springfield,Springfield - Springfield International Academy at Sci-Tech,BIO,0,1,9,10,20,469
+Springfield,Springfield - The Springfield Renaissance School an Expeditionary Learning School,BIO,5,16,35,24,80,488
+Springfield,Springfield - The Springfield Virtual School,BIO,1,0,10,13,24,473
+Stoneham,Stoneham - Stoneham High,BIO,18,59,52,6,135,505
+Stoughton,Stoughton - Stoughton High,BIO,16,118,78,30,242,501
+Sutton,Sutton - Sutton High School,PHY,18,45,22,1,86,513
+Swampscott,Swampscott - Swampscott High,BIO,38,83,33,8,162,514
+Swansea,Swansea - Joseph Case High,PHY,20,43,54,11,128,503
+Taunton,Taunton - Taunton High,BIO,26,159,189,108,482,491
+Tewksbury,Tewksbury - Tewksbury Memorial High,BIO,11,77,76,12,176,500
+Tyngsborough,Tyngsborough - Tyngsborough High School,BIO,18,63,29,4,114,509
+Uxbridge,Uxbridge - Uxbridge High,PHY,10,36,37,7,90,502
+Wakefield,Wakefield - Wakefield Memorial High,BIO,21,121,59,11,212,507
+Walpole,Walpole - Walpole High,PHY,49,120,48,9,226,513
+Waltham,Waltham - Waltham Sr High,PHY,24,123,157,95,399,490
+Ware,Ware - Ware Junior/Senior High School,BIO,0,8,12,3,23,491
+Wareham,Wareham - Wareham Senior High,BIO,0,25,64,26,115,485
+Watertown,Watertown - Watertown High,BIO,0,0,7,10,17,465
+Watertown,Watertown - Watertown High,PHY,22,58,67,12,159,502
+Wayland,Wayland - Wayland High School,BIO,65,103,30,1,199,521
+Webster,Webster - Bartlett High School,BIO,0,9,36,28,73,479
+Wellesley,Wellesley - Wellesley Sr High,PHY,120,177,51,1,349,522
+West Boylston,West Boylston - West Boylston Junior/Senior High,PHY,7,30,23,2,62,504
+West Bridgewater,West Bridgewater - West Bridgewater Junior/Senior,BIO,0,30,59,18,107,488
+West Springfield,West Springfield - West Springfield High,BIO,37,111,97,23,268,503
+Westborough,Westborough - Westborough High,BIO,102,145,41,6,294,521
+Westfield,Westfield - Westfield High,BIO,6,72,103,50,231,489
+Westfield,Westfield - Westfield Technical Academy,PHY,3,30,82,21,136,488
+Westford,Westford - Westford Academy,BIO,116,185,38,7,346,522
+Weston,Weston - Weston High,PHY,50,75,30,0,155,520
+Westport,Westport - Westport Middle-High School,BIO,4,30,27,5,66,499
+Westwood,Westwood - Westwood High,BIO,53,97,38,11,199,515
+Weymouth,Weymouth - Weymouth High School,BIO,64,148,163,46,421,502
+Whitman,Whitman-Hanson - Whitman Hanson Regional,BIO,15,113,91,19,238,500
+Hanson,Whitman-Hanson - Whitman Hanson Regional,BIO,15,113,91,19,238,500
+Wilmington,Wilmington - Wilmington High,BIO,16,95,36,9,156,508
+Winchendon,Winchendon - Murdock High School,BIO,1,29,34,8,72,494
+Winchester,Winchester - Winchester High School,BIO,98,193,53,10,354,518
+Winthrop,Winthrop - Winthrop High School,BIO,10,65,52,14,141,500
+Woburn,Woburn - Woburn High,BIO,58,144,174,41,417,500
+Worcester,Worcester - Burncoat Senior High,BIO,11,50,69,61,191,488
+Worcester,Worcester - Burncoat Senior High,PHY,1,5,23,26,55,473
+Worcester,Worcester - Claremont Academy,BIO,0,9,20,27,56,476
+Worcester,Worcester - Doherty Memorial High,BIO,18,94,138,68,318,491
+Worcester,Worcester - North High,BIO,2,24,97,147,270,474
+Worcester,Worcester - South High Community,BIO,21,82,141,131,375,486
+Worcester,Worcester - University Pk Campus School,BIO,1,11,16,7,35,494
+Worcester,Worcester - Worcester Technical High,BIO,7,95,174,85,361,487

@@ -1,0 +1,17 @@
+Timestamp,Email Address,Ticker,Type,Shares
+3/4/2024 18:42:51,Player1,NVDA,Buy,11
+3/6/2024 18:42:51,Player1,NVDA,Sell,11
+3/7/2024 18:42:51,Player1,NVDA,Sell,11
+3/8/2024 18:42:51,Player1,NVDA,Buy,50
+3/5/2024 00:00:00,Player3,CSCO,Buy, 1
+3/9/2024 18:42:51,Player1,NVDA,Buy,10
+3/9/2024 18:42:51,Player2,NVDA,Buy,10
+3/10/2024 18:42:51,Player3,NVDA,Buy,10
+3/9/2024 18:42:51,Player1,AMZN,Buy,7
+3/9/2024 18:42:51,Player2,AMZN,Buy,7
+3/10/2024 18:42:51,Player3,AMZN, Buy,7
+3/11/2024 00:00:00, notAPlayer,AMZN, Sell, 10
+3/11/2024 00:00:00, Player3,AMZN, Sell, 5
+3/19/2024 18:42:51,Player2,AMZN,Sell,7
+3/19/2024 00:00:00, Player2, META, Sell, 7
+3/20/2024 00:00:00, Player3, AMZN, Sell, 10
